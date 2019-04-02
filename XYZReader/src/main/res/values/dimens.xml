@@ -1,0 +1,29 @@
+<resources>
+    <!-- detail -->
+    <dimen name="detail_title_text_size">32sp</dimen>
+    <dimen name="detail_body_text_size">22sp</dimen>
+    <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
+    <dimen name="action_up_button">56dp</dimen>
+
+
+    <dimen name="fab_elevation">6dp</dimen>
+    <dimen name="fab_press_translation_z">12dp</dimen>
+    <dimen name="fab_margin">24dp</dimen>
+    <dimen name="app_bar_height">100dp</dimen>
+
+    <!-- main recycler view dimensions -->
+    <dimen name="main_recyclerview_padding">18dp</dimen>
+    <dimen name="main_recyclerview_padding_bottom">28dp</dimen>
+
+    <!-- main recycler view item dimensions -->
+    <dimen name="list_item_margin">4dp</dimen>
+    <dimen name="list_item_text_padding_large">16dp</dimen>
+    <dimen name="list_item_text_padding_small">4dp</dimen>
+
+    <!-- detailed toolbar dimensions -->
+    <dimen name="detail_tool_bar_elevation">8dp</dimen>
+    <dimen name="detail_tool_bar_height">320dp</dimen>
+    <dimen name="detail_tool_bar_margin_end">64dp</dimen>
+    <dimen name="detail_tool_bar_margin_start">48dp</dimen>
+
+</resources>
