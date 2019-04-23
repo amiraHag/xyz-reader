@@ -1,4 +1,6 @@
 = XYZ Reader Starter Code
 
 This app displays articles and for each article you can show the details.
-#This is part of udacity android developer nanodegree
+
+
+=This is part of udacity android developer nanodegree
